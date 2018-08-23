@@ -4,9 +4,6 @@ namespace :sample do
       vc = TimesController.new
       vc.index
 
-      p "検証2"
-      anotherVC = Times.new
-      anotherVC.index
 
     end
 
